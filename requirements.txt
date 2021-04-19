@@ -1,0 +1,10 @@
+astroid==2.5.3
+beautifulsoup4==4.9.3
+bs4==0.0.1
+html5lib==1.1
+pytube==10.7.1
+random-user-agent==1.0.1
+requests==2.25.1
+requests-random-user-agent==2020.12.20
+rich==10.0.1
+wget==3.2
