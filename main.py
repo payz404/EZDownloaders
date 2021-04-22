@@ -9,7 +9,6 @@
 
 
 from Module import ezdownloader as EZ
-from Module import ezdownloaders as EZD
 from Module.packages import *
 from Module.banner import *
 
